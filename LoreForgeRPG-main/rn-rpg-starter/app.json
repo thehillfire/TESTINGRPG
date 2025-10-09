@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "RN RPG Starter",
+    "slug": "rn-rpg-starter",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "scheme": "rnrpg",
+   "sdkVersion": "54.0.0",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0B0F1A"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": true },
+    "android": {
+      "adaptiveIcon": {
+  "foregroundImage": "./assets/adaptiveicon.png",
+        "backgroundColor": "#0B0F1A"
+      }
+    },
+    "web": { "favicon": "./assets/favicon.png" }
+  }
+}
